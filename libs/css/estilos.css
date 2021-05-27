@@ -1,0 +1,34 @@
+ #contenido_cabecera {
+     padding: 5px !important;
+     background-color: #121212 !important;
+ }
+
+ #contenido {
+     width: calc(100% - 4px) !important;
+     max-width: 990px !important;
+     margin-left: auto !important;
+     margin-right: auto !important;
+     margin-top: 20px !important;
+     margin-bottom: 20px !important;
+     background-color: white !important;
+     padding: 2px !important;
+ }
+
+ nav {
+     width: calc(100% - 4px) !important;
+     max-width: 990px !important;
+     margin-left: auto !important;
+     margin-right: auto !important;
+     padding: 2px !important;
+ }
+
+ /*
+#campo_registro {
+    width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    background-color: white;
+    padding: 2px;
+}
+*
